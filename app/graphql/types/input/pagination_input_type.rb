@@ -1,5 +1,4 @@
 # frozen_string_literal: true
-
 module Types
   module Input
     class PaginationInputType < Types::Input::BaseInputObject
